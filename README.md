@@ -1,2 +1,2 @@
-# ai-standards-explorer
-Upload PDFs → Ask Questions → Get Expert Answers
+# AI Standards Explorer
+Upload engineering PDFs and ask technical questions using AI.
